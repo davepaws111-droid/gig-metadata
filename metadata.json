@@ -1,0 +1,9 @@
+{
+  "name": "GiG",
+  "symbol": "GIG",
+  "description": "Greed Is Good — The Wolf Coin",
+  "image": "REPLACE_WITH_ARWEAVE_URL",
+  "extensions": {
+    "website": "https://your-website-here-if-you-want"
+  }
+}
