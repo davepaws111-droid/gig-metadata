@@ -2,7 +2,8 @@
   "name": "GiG",
   "symbol": "GIG",
   "description": "Greed Is Good — The Wolf Coin",
-  "image": "REPLACE_WITH_ARWEAVE_URL",
+  "image": "https://raw.githubusercontent.com/davepaws111-droid/gig-metadata/refs/heads/main/YaAYVvKZ_400x400.jpg",
+
   "extensions": {
     "website": "https://your-website-here-if-you-want"
   }
